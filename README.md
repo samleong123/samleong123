@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://github.com/samleong123"><img src="https://github-readme-stats.vercel.app/api?username=samleong123&show_icons=true&count_private=true" height=200 /></a>
-<a href="https://github.com/samleong123"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samleong123&layout=compact" height=200 /></a>
+<a href="https://github.com/samleong123"><img src="https://github-readme-stats.vercel.app/api?username=samleong123&show_icons=true&count_private=true" height=100 /></a>
+<a href="https://github.com/samleong123"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samleong123&layout=compact" height=100 /></a>
 
 
 ### Contact Information 
