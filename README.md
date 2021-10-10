@@ -13,20 +13,22 @@ a. <a href="mailto:0.ouster.build@icloud.com">0.ouster.build@icloud.com</a> [iCl
 1. Main Website : [https://www.samsam123.tk](https://www.samsam123.tk)
 2. Blog (in Chinese) : [https://blog.samsam123.tk](https://blog.samsam123.tk)
 3. Education website : [https://edu.samsam123.tk](https://edu.samsam123.tk) 
-4. meWATCH SG Web Player (Edge / Chrome on Android / Mac / Windows only) : [https://mewatchsg.samsam123.tk/web-player](https://mewatchsg.samsam123.tk/web-player) 
-5. Retrieve Widevine L3 Key ID & Key (in Chinese) : [here](https://blog.samsam123.tk/articles/decrypt-widevine-l3)
-6. Use XMLHttpRequest to generate and return shorten URL with Firebase Dynamic Links services (in Chinese) : [here](https://blog.samsam123.tk/articles/firebase-dynamic-url-with-XMLHttpRequest)
-7. Play encrypted contents with Clearkey + Shaka Player for Edge / Chrome on Android / Mac / Windows only (in Chinese) : [here](https://blog.samsam123.tk/articles/shaka-player-clearkeys-browser) </br>
+4. Clearkey Hex to Base64 Converter : [https://clearkey-base64-2-hex-json.herokuapp.com/](https://clearkey-base64-2-hex-json.herokuapp.com/)
+5. meWATCH SG Web Player (Edge / Chrome on Android / Mac / Windows only) : [https://mewatchsg.samsam123.tk/web-player](https://mewatchsg.samsam123.tk/web-player) 
+6. Retrieve Widevine L3 Key ID & Key (in Chinese) : [here](https://blog.samsam123.tk/articles/decrypt-widevine-l3)
+7. Use XMLHttpRequest to generate and return shorten URL with Firebase Dynamic Links services (in Chinese) : [here](https://blog.samsam123.tk/articles/firebase-dynamic-url-with-XMLHttpRequest)
+8. Play encrypted contents with Clearkey + Shaka Player for Edge / Chrome on Android / Mac / Windows only (in Chinese) : [here](https://blog.samsam123.tk/articles/shaka-player-clearkeys-browser) </br>
 and more if you can Google it.
 
 
 ### Interesting Repo
 1. macOS Big Sur - Opencore EFI for i5-4570 + Asus B85MG Motherboard + HD4600 iGPU - [https://github.com/samleong123/i5-4570-B85MG-HD4600-BigSur-Opencore-EFI](https://github.com/samleong123/i5-4570-B85MG-HD4600-BigSur-Opencore-EFI)
 2. Acer Aspire A514-52-37H1 macOS Catalina Clover EFI - [https://github.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI](https://github.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI)
-3. meWATCH SG - [https://github.com/samleong123/mewatchsg](https://github.com/samleong123/mewatchsg)
-4. RTM Live - [https://github.com/samleong123/rtm-live](https://github.com/samleong123/rtm-live)
-5. Retrieve Media Prima Channels's HLS manifest from Dailymotion - [https://github.com/samleong123/tonton_dailymotion_php](https://github.com/samleong123/tonton_dailymotion_php)
-6. PopCat Script - [https://github.com/samleong123/PopCat_Script](https://github.com/samleong123/PopCat_Script) </br>
+3. Convert Clearkey in Hex to Base64 and output JSON automatically - [https://github.com/samleong123/heroku-clearkey-hex-base64-json/](https://github.com/samleong123/heroku-clearkey-hex-base64-json/)
+4. meWATCH SG - [https://github.com/samleong123/mewatchsg](https://github.com/samleong123/mewatchsg)
+5. RTM Live - [https://github.com/samleong123/rtm-live](https://github.com/samleong123/rtm-live)
+6. Retrieve Media Prima Channels's HLS manifest from Dailymotion - [https://github.com/samleong123/tonton_dailymotion_php](https://github.com/samleong123/tonton_dailymotion_php)
+7. PopCat Script - [https://github.com/samleong123/PopCat_Script](https://github.com/samleong123/PopCat_Script) </br>
 and more if you visit [here](https://github.com/samleong123?tab=repositories)
 
 ### That's all
