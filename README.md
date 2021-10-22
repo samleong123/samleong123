@@ -6,20 +6,20 @@
 
 ### Contact Information 
 1. Email: </br>
-a. <a href="mailto:0.ouster.build@icloud.com">0.ouster.build@icloud.com</a> [iCloud+ Hide my Email] </br> b. <a href="mailto:samsam123@samsam123.tk">samsam123@samsam123.tk</a> [iCloud+ subdomain]</br> c. <a href="mailto:samsam123@office.samsam123.tk">samsam123@office.samsam123.tk</a> [Office 365 E5 Developer]
+a. <a href="mailto:0.ouster.build@icloud.com">0.ouster.build@icloud.com</a> [iCloud+ Hide my Email] </br> b. <a href="mailto:samsam123@samsam123.name.my">samsam123@samsam123.name.my</a> [iCloud+ subdomain]</br> c. <a href="mailto:samsam123@office.samsam123.name.my">samsam123@office.samsam123.name.my</a> [Office 365 E5 Developer]
 2. Telegram : </br> <a href="https://t.me/samsam1103">samsam1103</a>
 
 ### Link 
-1. Main Website : [https://www.samsam123.tk](https://www.samsam123.tk)
-2. Blog (in Chinese) : [https://blog.samsam123.tk](https://blog.samsam123.tk)
-3. Education website : [https://edu.samsam123.tk](https://edu.samsam123.tk) 
-4. MySejahtera Details Checker : [https://www.samsam123.tk/MySejahtera](https://www.samsam123.tk/MySejahtera)
-5. Malaysia Vaccination Record Checker : [https://www.samsam123.tk/vaksinmy](https://www.samsam123.tk/vaksinmy)
+1. Main Website : [https://www.samsam123.name.my](https://www.samsam123.name.my)
+2. Blog (in Chinese) : [https://blog.samsam123.name.my](https://blog.samsam123.name.my)
+3. Education website : [https://edu.samsam123.name.my](https://edu.samsam123.name.my) 
+4. MySejahtera Details Checker : [https://www.samsam123.name.my/MySejahtera](https://www.samsam123.name.my/MySejahtera)
+5. Malaysia Vaccination Record Checker : [https://www.samsam123.name.my/vaksinmy](https://www.samsam123.name.my/vaksinmy)
 6. Clearkey Hex to Base64 Converter : [https://clearkey-base64-2-hex-json.herokuapp.com/](https://clearkey-base64-2-hex-json.herokuapp.com/)
-7. meWATCH SG Web Player (Edge / Chrome on Android / Mac / Windows only) : [https://mewatchsg.samsam123.tk/web-player](https://mewatchsg.samsam123.tk/web-player) 
-8. Retrieve Widevine L3 Key ID & Key (in Chinese) : [here](https://blog.samsam123.tk/articles/decrypt-widevine-l3)
-9. Use XMLHttpRequest to generate and return shorten URL with Firebase Dynamic Links services (in Chinese) : [here](https://blog.samsam123.tk/articles/firebase-dynamic-url-with-XMLHttpRequest)
-10. Play encrypted contents with Clearkey + Shaka Player for Edge / Chrome on Android / Mac / Windows only (in Chinese) : [here](https://blog.samsam123.tk/articles/shaka-player-clearkeys-browser) </br>
+7. meWATCH SG Web Player (Edge / Chrome on Android / Mac / Windows only) : [https://mewatchsg.samsam123.name.my/web-player](https://mewatchsg.samsam123.name.my/web-player) 
+8. Retrieve Widevine L3 Key ID & Key (in Chinese) : [here](https://blog.samsam123.name.my/articles/decrypt-widevine-l3)
+9. Use XMLHttpRequest to generate and return shorten URL with Firebase Dynamic Links services (in Chinese) : [here](https://blog.samsam123.name.my/articles/firebase-dynamic-url-with-XMLHttpRequest)
+10. Play encrypted contents with Clearkey + Shaka Player for Edge / Chrome on Android / Mac / Windows only (in Chinese) : [here](https://blog.samsam123.name.my/articles/shaka-player-clearkeys-browser) </br>
 and more if you can Google it.
 
 
