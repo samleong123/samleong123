@@ -19,9 +19,10 @@ a. <a href="mailto:0.ouster.build@icloud.com">0.ouster.build@icloud.com</a> [iCl
 7. Malaysia Vaccination Record Checker : [https://www.samsam123.name.my/vaksinmy](https://www.samsam123.name.my/vaksinmy)
 8. Clearkey Hex to Base64 Converter : [https://clearkey-base64-2-hex-json.herokuapp.com/](https://clearkey-base64-2-hex-json.herokuapp.com/)
 9. meWATCH SG Web Player (Edge / Chrome on Android / Mac / Windows only) : [https://mewatchsg.samsam123.name.my/web-player](https://mewatchsg.samsam123.name.my/web-player) 
-10. Retrieve Widevine L3 Key ID & Key (in Chinese) : [here](https://blog.samsam123.name.my/articles/decrypt-widevine-l3)
-11. Use XMLHttpRequest to generate and return shorten URL with Firebase Dynamic Links services (in Chinese) : [here](https://blog.samsam123.name.my/articles/firebase-dynamic-url-with-XMLHttpRequest)
-12. Play encrypted contents with Clearkey + Shaka Player for Edge / Chrome on Android / Mac / Windows only (in Chinese) : [here](https://blog.samsam123.name.my/articles/shaka-player-clearkeys-browser) </br>
+10. Why you will see high latency and packet loss when connecting to China ISP's servers from Malaysia ISP? </br> Do not blame Malaysia ISP for this now! (in Chinese) : [https://blog.samsam123.name.my/articles/why-malaysia-isp-high-packet-loss-latency-to-china-server](https://blog.samsam123.name.my/articles/why-malaysia-isp-high-packet-loss-latency-to-china-server)
+11. Retrieve Widevine L3 Key ID & Key (in Chinese) : [here](https://blog.samsam123.name.my/articles/decrypt-widevine-l3)
+12. Use XMLHttpRequest to generate and return shorten URL with Firebase Dynamic Links services (in Chinese) : [here](https://blog.samsam123.name.my/articles/firebase-dynamic-url-with-XMLHttpRequest)
+13. Play encrypted contents with Clearkey + Shaka Player for Edge / Chrome on Android / Mac / Windows only (in Chinese) : [here](https://blog.samsam123.name.my/articles/shaka-player-clearkeys-browser) </br>
 and more if you can Google it.
 
 
