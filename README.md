@@ -24,6 +24,7 @@ a. <a href="mailto:0.ouster.build@icloud.com">0.ouster.build@icloud.com</a> [iCl
 12. Use XMLHttpRequest to generate and return shorten URL with Firebase Dynamic Links services (in Chinese) : [here](https://blog.samsam123.name.my/articles/firebase-dynamic-url-with-XMLHttpRequest)
 13. Play encrypted contents with Clearkey + Shaka Player for Edge / Chrome on Android / Mac / Windows only (in Chinese) : [here](https://blog.samsam123.name.my/articles/shaka-player-clearkeys-browser) </br>
 and more if you can Google it.
+14. COVID-19 Daily Situation in Malaysia : [https://covid-19.samsam123.name.my](https://covid-19.samsam123.name.my)
 
 
 ### Interesting Repo
