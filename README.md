@@ -7,7 +7,7 @@
 ### Contact Information 
 1. Email: </br>
 a. <a href="mailto:0.ouster.build@icloud.com">0.ouster.build@icloud.com</a> [iCloud+ Hide my Email] </br> b. <a href="mailto:samsam123@samsam123.name.my">samsam123@samsam123.name.my</a> [iCloud+ subdomain]</br> c. <a href="mailto:samsam123@office.samsam123.name.my">samsam123@office.samsam123.name.my</a> [Office 365 E5 Developer]
-2. Telegram : </br> <a href="https://t.me/samsam1103">samsam1103</a>
+2. Telegram : </br> <a href="https://t.me/samsam1103">samsam1103</a> <br> <strong>[IMPORTANT NOTICE] <br> DO NOT MESSAGE ME ANYTHING RELATED TO WIDEVINE KEY DECRYPT / CLEARKEY <br> I WON'T RESPOND TO ANY MESSAGE RELATED TO WIDEVINE KEY DECRYPT / CLEARKEY <br> A slightly long response time may occur since my Telegram is full of channels + group.</strong>
 
 ### Link 
 1. Main Website : [https://www.samsam123.name.my](https://www.samsam123.name.my)
