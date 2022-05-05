@@ -9,7 +9,7 @@
 - Secondary school students with a passion for coding  <br> 
 - Currently focusing on SPM (Sijil Pelajaran Malaysia) in 2022 <br> 
 - Active in Klang Valley <br>
-- Owner of [samsam123.name.my](https://www.samsam123.name.my) and [samsam123.tk](https://www.samsam123.tk) <br>
+- Owner of [samsam123.name.my](https://www.samsam123.name.my)  <br>
 - Malaysian
 
 ### Contact Information 
