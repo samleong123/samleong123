@@ -15,7 +15,7 @@
 
 ### Contact Information 
 1. Email: <br>
-a. <a href="mailto:0.ouster.build@icloud.com">0.ouster.build@icloud.com</a> [iCloud+ Hide my Email] <br> 
+a. <a href="mailto:samsam123@samsam123.name.my">samsam123@samsam123.name.my</a>  <br> 
 2. Telegram : <br> <a href="https://t.me/samsam1103">samsam1103</a> 
 
 ### Social Media
